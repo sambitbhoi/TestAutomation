@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28295" started-at="2019-06-28T19:46:59Z" finished-at="2019-06-28T19:47:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28295" started-at="2019-06-28T19:46:59Z" finished-at="2019-06-28T19:47:27Z">
+      <class name="com.finance.PageTest.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.finance.PageTest.LoginPageTest@140564]" name="setUp" is-config="true" duration-ms="16550" started-at="2019-06-29T01:16:59Z" finished-at="2019-06-29T01:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogo()[pri:1, instance:com.finance.PageTest.LoginPageTest@140564]" name="validateLogo" duration-ms="241" started-at="2019-06-29T01:17:16Z" finished-at="2019-06-29T01:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.finance.PageTest.LoginPageTest@140564]" name="loginTest" duration-ms="10198" started-at="2019-06-29T01:17:16Z" finished-at="2019-06-29T01:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.finance.PageTest.LoginPageTest@140564]" name="endTest" is-config="true" duration-ms="1270" started-at="2019-06-29T01:17:26Z" finished-at="2019-06-29T01:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.finance.PageTest.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
